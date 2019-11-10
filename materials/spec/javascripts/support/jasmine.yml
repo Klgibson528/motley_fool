@@ -11,7 +11,7 @@
     #   - lib/source2.js
     #   - dist/**/*.js
     #
-    src_files:
+    src_files: ["static/js/recommendations.js", "static/js/temp.js", "static/js/tracker.js"]
 
     # stylesheets
     #
