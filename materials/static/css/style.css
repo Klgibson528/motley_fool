@@ -1,0 +1,43 @@
+#wrapper>* {
+  padding: 0 5% 0 5%;
+}
+
+.hero {
+  height: 300px;
+}
+
+.hero h1 {
+  color: #0D47A1;
+  font-weight: bold;
+}
+
+#companies-container ul {
+  list-style-type: none;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+footer {
+  background-color: #017E33;
+  color: white;
+  width: 100%;
+}
+
+footer a {
+  color: white
+}
+
+li {
+  list-style: none;
+}
+
+.disclosure,
+.disclosure a {
+  color: white
+}
+
+.btn {
+  background-color: #017E33 !important;
+  color: white !important;
+  white-space: normal;
+}
